@@ -45,3 +45,11 @@ Sample Input: n = 5
 ![Pattern Ques 6](/Assets/Pattern%20Questions/Q6.png)
 
 ---
+
+Pattern 7:
+
+Sample Input: n = 5
+
+![Pattern Ques 7](/Assets/Pattern%20Questions/Q7.png)
+
+---
