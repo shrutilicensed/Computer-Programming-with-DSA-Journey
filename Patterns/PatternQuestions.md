@@ -53,3 +53,27 @@ Sample Input: n = 5
 ![Pattern Ques 7](/Assets/Pattern%20Questions/Q7.png)
 
 ---
+
+Pattern 8:
+
+Sample Input: n = 5
+
+![Pattern Ques 8](/Assets/Pattern%20Questions/Q8.png)
+
+---
+
+Pattern 9:
+
+Sample Input: n = 5
+
+![Pattern Ques 9](/Assets/Pattern%20Questions/Q9.png)
+
+---
+
+Pattern 10:
+
+Sample Input: n = 5
+
+![Pattern Ques 10](/Assets/Pattern%20Questions/Q10.png)
+
+---
