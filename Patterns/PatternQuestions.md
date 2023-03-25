@@ -82,7 +82,7 @@ Pattern 11:
 
 Sample Input: n = 5
 
-![Pattern Ques 11](/Assets/Pattern%20Questions/Q-11.png)
+![Pattern Ques 11](/Assets/Pattern%20Questions/Q11.png)
 
 ---
 
@@ -99,5 +99,29 @@ Pattern 13:
 Sample Input: n = 5
 
 ![Pattern Ques 13](/Assets/Pattern%20Questions/Q13.png)
+
+---
+
+Pattern 14:
+
+Sample Input: n = 5
+
+![Pattern Ques 14](/Assets/Pattern%20Questions/Q14.png)
+
+---
+
+Pattern 15:
+
+Sample Input: n = 5
+
+![Pattern Ques 15](/Assets/Pattern%20Questions/Q15.png)
+
+---
+
+Pattern 16:
+
+Sample Input: n = 5
+
+![Pattern Ques 16](/Assets/Pattern%20Questions/Q16.png)
 
 ---
