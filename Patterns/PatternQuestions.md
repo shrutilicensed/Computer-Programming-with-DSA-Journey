@@ -91,3 +91,13 @@ Pattern 12:
 Sample Input: n = 5
 
 ![Pattern Ques 12](/Assets/Pattern%20Questions/Q12.png)
+
+---
+
+Pattern 13:
+
+Sample Input: n = 5
+
+![Pattern Ques 13](/Assets/Pattern%20Questions/Q13.png)
+
+---
