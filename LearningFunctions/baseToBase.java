@@ -10,7 +10,7 @@ public class baseToBase {
     scan.close();
     baseToBaseConv(num, base1, base2);
     }
-    
+
   public static void baseToBaseConv(int num, int base1, int base2){
     int sum =0;
     for(int i =0; num>0; i++){
