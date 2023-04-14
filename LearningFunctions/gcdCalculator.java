@@ -6,6 +6,7 @@ public class gcdCalculator {
   public static void gcdFinder(int num1, int num2){
     ArrayList<Integer> listNum1 = new ArrayList<Integer>();
     ArrayList<Integer> listNum2 = new ArrayList<Integer>();
+    ArrayList<Integer> listNum3= new ArrayList<Integer>();
 
     for(int i=1; i<=num1; i++){
       if(num1%i==0){
@@ -19,7 +20,14 @@ public class gcdCalculator {
     }
 
     for(int i=0;i<=listNum1.size(); i++){
-      
+      for (int j=0; j<=listNum2.size(); j++){
+        if(listNum1.get(i) == listNum2.get(j)){
+          listNum3.add(j);
+        }
+        else{
+          listNum3.add(1);
+        }
+      }
     }
 
   }
