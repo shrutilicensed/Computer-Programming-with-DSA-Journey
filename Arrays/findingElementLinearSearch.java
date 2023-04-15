@@ -17,7 +17,7 @@ public class findingElementLinearSearch {
 
     for(int i=0; i<size; i++){
       if(element == arr[i]){
-        System.out.println("Found at " + i + " position");
+        System.out.println("Found at " + i + " index");
       }
     }
   }
