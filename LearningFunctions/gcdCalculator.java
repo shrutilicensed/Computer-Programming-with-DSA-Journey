@@ -14,15 +14,15 @@ public class gcdCalculator {
       }
     }
     for(int i=1; i<=num2; i++){
-      if(num1%i==0){
+      if(num2%i==0){
         listNum2.add(i);
       }
     }
 
-    for(int i=0;i<=listNum1.size(); i++){
-      for (int j=0; j<=listNum2.size(); j++){
+    for(int i=0;i<listNum1.size(); i++){
+      for (int j=0; j<listNum2.size(); j++){
         if(listNum1.get(i) == listNum2.get(j)){
-          listNum3.add(j);
+          listNum3.add(listNum1.get((i)));
         }
         else{
           listNum3.add(1);
@@ -30,6 +30,7 @@ public class gcdCalculator {
       }
     }
 
+    System.out.println(Collections.max(listNum3));
   }
   public static void main(String[] args) {
     // Scanner scan= new Scanner(System.in);
