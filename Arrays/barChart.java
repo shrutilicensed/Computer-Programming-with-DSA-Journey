@@ -20,11 +20,11 @@ public class barChart {
     }
     for(int i=0; i<rows; i++){
       for(int j=0; j<size; j++){
-        if(i<arr[j]){
-          System.out.print("-");
+        if(i<rows-arr[j]){
+          System.out.print("  ");
         }
         else{
-          System.out.print("*");
+          System.out.print("* ");
         }
       }
       System.out.println();
