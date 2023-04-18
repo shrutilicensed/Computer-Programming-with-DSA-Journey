@@ -8,6 +8,9 @@ public class printingAStack {
       newStack.push(i);
     }
     System.out.println(newStack);
+    System.out.println("After pop operation: ");
+    newStack.pop();
+    System.out.println(newStack);
   }
 }
 
