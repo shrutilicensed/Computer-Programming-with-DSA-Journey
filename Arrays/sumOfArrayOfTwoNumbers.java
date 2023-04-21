@@ -23,19 +23,14 @@ public class sumOfArrayOfTwoNumbers {
       arr2[i]= scan.nextInt();
     }
     int[] SumArr;
-    // finding size of sumArray
+    // finding size of sumArray using the greater array between input array
     if(num1Size>num2Size){
       SumArr= new int[num1Size+1];
     }
     else{
       SumArr= new int[num2Size+1];
     }
-    int carry = 0;
-    int point = (SumArr.length)-1;
-    int i= num1Size;
-    int j= num2Size;
-    while(point >0){
+    
 
-    }
   }
 }
